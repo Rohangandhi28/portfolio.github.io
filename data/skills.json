@@ -1,0 +1,17 @@
+[
+  {
+      "grouping":"Programming Languages",
+      "skills":[ "Python","R","JAVA","C"]
+  },{
+      "grouping":"Tools & Technologies",
+      "skills":[ "Jupyter Notebook", "Tableau", "R Studio", "MySQL", "Microsoft Office", "Microsoft Excel"]
+  },
+  {
+      "grouping":"Functional Skills",
+      "skills":[ "Software Development", "Distributed Systems", "Object Oriented Design", "Data Analysis", "Statistics in Data Science", "Data Visualization"]
+  },
+  {
+    "grouping":"Soft Skills",
+    "skills":[ "Management & Leadership", "Written & Verbal Communication", "Problem Solving", "Critical Thinking"]
+}
+]

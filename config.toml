@@ -1,0 +1,50 @@
+title = "Rohan Gandhi Portfolio"
+baseURL = "https://example.com/"
+theme = "Portfolio"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Harrison, NJ"
+email = "rohan.gandhi@rutgers.edu"
+favicon = "/favicon.ico"
+firstName = "Rohan"
+lastName = "Gandhi"
+phone = "1-551-285-7110"
+profileImage = "img/Rohan.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/rohangandhi2806/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Rohangandhi28"
+name = "GitHub"
+
+[[params.handles]]
+link = "file:///C://Users/Rohan%20Gandhi/OneDrive/Desktop/exampleSite/static/Docs/Rohan%20Gandhi%20Resume.pdf"
+name = "Resume"
+
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
